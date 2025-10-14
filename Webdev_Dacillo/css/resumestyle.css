@@ -1,0 +1,64 @@
+.div1 {
+    text-align: center;
+    margin: 30px;
+
+}
+
+body {
+    background-image: url('https://t4.ftcdn.net/jpg/02/32/92/55/360_F_232925587_st4gM8b3TJHtjjddCIUNyVyFJmZqMmn4.jpg');
+    border: 10px solid rgb(7, 145, 176);
+    border-radius: 10px;
+}
+
+.div1 h1 {
+    color: rgb(209, 209, 209);
+}
+
+.div1 h3 {
+    color: rgb(199, 199, 199);
+}
+
+.div1 p {
+    color: rgb(206, 205, 205);
+}
+
+.div1 :hover {
+    color: aqua;
+
+}
+
+.div2 {
+    color: rgb(209, 209, 209);
+    border-radius: 10px;
+    border: 6px solid rgb(11, 163, 197);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.div3 {
+    color: rgb(209, 209, 209);
+    border-radius: 10px;
+    border: 6px solid rgb(11, 163, 197);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.div4 {
+    color: rgb(209, 209, 209);
+    border-radius: 10px;
+    border: 6px solid rgb(11, 163, 197);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

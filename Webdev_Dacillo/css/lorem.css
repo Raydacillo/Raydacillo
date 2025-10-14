@@ -1,0 +1,84 @@
+.h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+
+.card1 {
+    text-align: center;
+     display:inline-block;
+    border-radius: 10px;
+    border: 4px solid rgb(0, 0, 0);
+   padding: 10px 10px;
+    height: 200%;
+    width: 200px;
+    margin: 5px 5px;
+}
+.card2 {
+    text-align: center;
+    display:inline-block;
+    border-radius: 10px;
+    border: 4px solid rgb(0, 0, 0);
+   padding: 10px 10px;
+    height: 200%;
+    width: 200px;
+   margin: 5px 5px;
+}
+.card3 {
+    text-align: center;
+    display:inline-block;
+    border-radius: 10px;
+    border: 4px solid rgb(0, 0, 0);
+   padding: 10px 10px;
+    height: 200%;
+    width: 200px;
+   margin: 5px 5px;
+}
+.card4 {
+    text-align: center;
+    display:inline-block;
+    border-radius: 10px;
+    border: 4px solid rgb(0, 0, 0);
+   padding: 10px 10px;
+    height: 200%;
+    width: 200px;
+   margin: 5px 5px;
+}
+.card5 {
+    text-align: center;
+    display:inline-block;
+    border-radius: 10px;
+    border: 4px solid rgb(0, 0, 0);
+   padding: 10px 10px;
+    height: 200%;
+    width: 200px;
+   margin: 5px 5px;
+}
+.card6 {
+    text-align: center;
+    display:inline-block;
+    border-radius: 10px;
+    border: 4px solid rgb(0, 0, 0);
+   padding: 10px 10px;
+    height: 200%;
+    width: 200px;
+   margin: 5px 5px;
+}
+.all div img  {
+  max-width: 200px;
+border-radius: 10%; 
+text-align: center;
+}
+.all div p  {
+  max-width: 300px;
+ 
+}
+body{
+  text-align: center;
+
+
+}
+.all :hover{
+scale: 1.05;
+
+}
